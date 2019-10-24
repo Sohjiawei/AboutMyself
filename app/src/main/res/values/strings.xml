@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">Layout</string>
+    <string name="app_name">About Me2</string>
+    <String name="MyName">Soh Jia Wei</String>
     <string name="profile_picture">Profile Picture</string>
+    <string name="User_Input">What is your nickname?</string>
     <string name="profile_desc">Hi!I am Soh Jia Wei.
             Address:G-16,MegariaLili,Jalan B/S 7, Taman Bukit Serdang,Seksyen 8, 43300 Seri Kembangan , Selangor
             \n\nEducation:

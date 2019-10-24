@@ -10,15 +10,24 @@
 
     <TextView
         android:id="@+id/textViewName"
-        android:text="Hello World!"
-        app:fontFamily="@font/roboto"
-        style="@style/font_style" />
+        style="@style/font_style"
+        android:text="Soh Jia Wei"
+        app:fontFamily="@font/roboto" />
+
+    <EditText
+        android:id="@+id/User_Input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="what is your nickname?"
+        android:inputType="text" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:contentDescription="@string/profile_picture"
         android:layout_width="match_parent"
         android:layout_height="182dp"
+        android:contentDescription="@string/profile_picture"
         app:srcCompat="@drawable/my_pic" />
 
     <ScrollView
